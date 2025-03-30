@@ -1,3 +1,5 @@
+*[▶️ Demo Video][screen-capture.webm](https://github.com/user-attachments/assets/14472cc5-185c-4daa-acec-a704fb37d404)
+
 # Financial-dashboard
 Streamlit financial dashboard for AF3005 Programming for Finance
 # 📊 Financial Dashboard | AF3005 – Programming for Finance
