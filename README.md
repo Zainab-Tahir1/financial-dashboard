@@ -1,14 +1,11 @@
-# financial-dashboard
+# Financial-dashboard
 Streamlit financial dashboard for AF3005 Programming for Finance
 # 📊 Financial Dashboard | AF3005 – Programming for Finance
 
-![Dashboard Screenshot](./assets/screenshot.png)  
-*[▶️ Demo Video](./assets/demo.mp4)* <!-- Optional video link -->
-
-## 📝 Course Assignment
+## 📝 Course Assignment 02
 **Course:** AF3005 – Programming for Finance  
 **Instructor:** Dr. Usama Arshad  
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/Zainab-Tahir1/financial-dashboard
 **Live Deployment:** https://financial-dashboard-k2exqu4bemdhckqpfyyusb.streamlit.app/
 ## 🌟 App Overview
 This financial dashboard provides real-time analysis of:
